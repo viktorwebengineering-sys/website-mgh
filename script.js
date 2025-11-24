@@ -1,5 +1,3 @@
-console.log('Hey there');
-
 // Auto-reload every 1 second (adjust as needed)
 // setInterval(() => {
 //   fetch(window.location.href, { method: 'HEAD', cache: 'no-store' })
