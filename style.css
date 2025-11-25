@@ -24,6 +24,11 @@ body {
   background-color: var(--custom-white);
 }
 
+p {
+  line-height: 1.6;
+  text-align: justify;
+}
+
 .nav-bar {
   /* will-change: background; */
   /* background-color: rgba(0, 0, 0, 0); */
@@ -205,8 +210,8 @@ header.w-nav {
 
 .heading-small {
   margin-bottom: 15px;
-  font-family: Lora, sans-serif;
-  font-size: 1.5rem;
+  /* font-family: Lora, sans-serif; */
+  font-size: 2rem;
   font-weight: 500;
 }
 
@@ -278,8 +283,8 @@ header.w-nav {
 }
 
 .heading-xsmall {
-  margin-bottom: 15px;
-  font-family: Lora, sans-serif;
+  margin-bottom: 20px;
+  /* font-family: Lora, sans-serif; */
   font-size: 1.5rem;
   font-weight: 500;
 }
